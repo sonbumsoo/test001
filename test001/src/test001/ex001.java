@@ -11,6 +11,7 @@ public class ex001 {
 		for(int i=0; i<=3; i++) {
 			int a = sc.nextInt();
 			result[i] = a;
+			result[i] = a;
 		}
 		
 		for(int i =0; i<result.length; i++) {
